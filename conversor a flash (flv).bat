@@ -1,0 +1,1 @@
+%~dp0ffmpeg.exe -i %1 -vcodec flv1 -ar 44100 %1.flv

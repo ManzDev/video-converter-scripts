@@ -1,0 +1,1 @@
+%~dp0ffmpeg.exe -i %1 -vcodec gif %1.gif

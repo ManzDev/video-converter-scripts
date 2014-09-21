@@ -1,0 +1,1 @@
+%~dp0ffmpeg.exe -i %1 -vcodec wmv2 %1.wmv

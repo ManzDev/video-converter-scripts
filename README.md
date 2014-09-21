@@ -34,9 +34,13 @@ Easy, fast and simple method for Windows-dummies (*or lazy people*) to convert v
 
 # Usage
 
-- Simply, drag video file to desired .bat file format.
+Simply, drag video file to desired .bat file format.
+
+![Drag and drop converter](drag-drop.png)
 
 
 # Notes
 
-- This scripts use ffmpeg builds for Windows (compressed with UPX for small size): [http://ffmpeg.zeranoe.com/builds/](http://ffmpeg.zeranoe.com/builds/) 
+- This scripts use ffmpeg builds for Windows (compressed with UPX for reduce size): [http://ffmpeg.zeranoe.com/builds/](http://ffmpeg.zeranoe.com/builds/) 
+
+- More info about formats and codecs (spanish): [http://www.emezeta.com/articulos/formatos-de-video-todo-lo-que-deberias-saber](http://www.emezeta.com/articulos/formatos-de-video-todo-lo-que-deberias-saber)

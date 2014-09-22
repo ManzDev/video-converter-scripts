@@ -2,6 +2,10 @@
 
 Easy, fast and simple method for Windows-dummies (*or lazy people*) to convert video file to multiple formats with 1-step drag and drop file:
 
+![Video-converter-scripts for Windows](video-converter-scripts.gif)
+
+Scripts available:
+
 - MKV (Matroska, x264/Vorbis) H.264
 - MKV (Matroska, x265/Vorbis) H.265
 - FLV (Flash video) H.263
@@ -35,8 +39,6 @@ Easy, fast and simple method for Windows-dummies (*or lazy people*) to convert v
 # Usage
 
 Simply, drag video file to desired .bat file format.
-
-![Drag and drop converter](drag-drop.png)
 
 
 # Notes

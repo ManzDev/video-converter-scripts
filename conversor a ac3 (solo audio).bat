@@ -1,1 +1,1 @@
-%~dp0ffmpeg.exe -i %1 %1.ac3
+"%~dp0ffmpeg.exe" -i "%1" "%1.ac3"

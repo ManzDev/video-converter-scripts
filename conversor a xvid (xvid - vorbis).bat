@@ -1,1 +1,1 @@
-%~dp0ffmpeg.exe -i %1 -vcodec libxvid -acodec libvorbis %1.xvid-vorbis.avi
+"%~dp0ffmpeg.exe" -i "%1" -vcodec libxvid -acodec libvorbis "%1.xvid-vorbis.avi"

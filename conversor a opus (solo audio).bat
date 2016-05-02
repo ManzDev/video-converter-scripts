@@ -1,1 +1,1 @@
-%~dp0ffmpeg.exe -i %1 %1.opus
+"%~dp0ffmpeg.exe" -i "%1" "%1.opus"

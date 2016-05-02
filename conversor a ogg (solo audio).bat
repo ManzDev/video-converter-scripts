@@ -1,1 +1,1 @@
-%~dp0ffmpeg.exe -i %1 -vn %1.ogg
+"%~dp0ffmpeg.exe" -i "%1" -vn "%1.ogg"

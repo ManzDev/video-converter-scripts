@@ -1,1 +1,1 @@
-%~dp0ffmpeg.exe -i %1 -c:v libx264 -crf 19 -preset slow -c:a libvo_aacenc -pix_fmt yuv420p -f mp4 -b:a 192k -y -shortest %1.mov
+"%~dp0ffmpeg.exe" -i "%1" -vcodec libx264 -crf 19 -preset slow -acodec libvo_aacenc -pix_fmt yuv420p -f mp4 -vb 192k -y -shortest "%1.mov"

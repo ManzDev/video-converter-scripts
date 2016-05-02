@@ -1,1 +1,1 @@
-%~dp0ffmpeg.exe -i %1 -vcodec libvpx-vp9 -acodec libvorbis %1.webm
+"%~dp0ffmpeg.exe" -i "%1" -vcodec libvpx-vp9 -acodec libvorbis "%1.webm"

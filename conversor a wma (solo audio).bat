@@ -1,1 +1,1 @@
-%~dp0ffmpeg.exe -i %1 -acodec wmav2 -vn %1.wma
+"%~dp0ffmpeg.exe" -i "%1" -acodec wmav2 -vn "%1.wma"
